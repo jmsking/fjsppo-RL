@@ -1,0 +1,56 @@
+{
+  "env_paras": {
+    "n_jobs": "Number of jobs, taking effect during training",
+    "n_stations": "Number of machines, taking effect during training",
+    "batch_size": "Number of parallel instances during training",
+    "ope_feat_dim" : "Dimension of the raw feature vectors of operation nodes",
+    "ma_feat_dim" : "Dimension of the raw feature vectors of machine nodes",
+    "valid_batch_size": "Number of instances in single validation set",
+    "is_train": "Whether is training mode",
+    "no_action": "Whether is containing `NO_ACTION`",
+    "is_single_station": "Whether one operation can only allocate one station (machine)",
+    "exist_subline": "Whether is existing subline"
+  },
+  "model_paras": {
+    "in_size_ma": "Dimension of the raw feature vectors of machine nodes",
+    "out_size_ma": "Dimension of the embedding of machine nodes",
+    "in_size_ope": "Dimension of the raw feature vectors of operation nodes",
+    "out_size_ope": "Dimension of the embedding of operation nodes",
+    "hidden_size_ope": "Hidden dimensions of the MLPs",
+    "num_heads": "len() means of the number of HGNN iterations, and the element means the number of heads of each HGNN (=1 in final experiment)",
+    "dropout": "dropout ratio",
+    "n_latent_actor": "Hidden dimensions of the actor",
+    "n_latent_critic": "Hidden dimensions of the critic",
+    "n_hidden_actor": "Number of layers in actor",
+    "n_hidden_critic": "Number of layers in critic",
+    "action_dim": "Output dimension of actor"
+  },
+  "train_paras": {
+    "lr": "learning rate",
+    "betas": "paras for Adam (default value)",
+    "gamma": "discount factor",
+    "K_epochs": "Update policy for K epochs",
+    "eps_clip": "clip ratio for PPO",
+    "A_coeff": "coefficient for policy loss",
+    "vf_coeff": "coefficient for value loss",
+    "entropy_coeff": "coefficient for entropy term",
+    "max_iterations": "Maximum number of iterations for training",
+    "save_timestep": "Number of iterations to validate and save the network",
+    "update_timestep": "Number of iterations to update the network",
+    "viz": "Turn on visdom to visualize the training process",
+    "viz_name": "Name of this visdom window",
+    "minibatch_size": "batch size for updating",
+    "parallel_iter": "Number of iterations to replace training instances"
+  },
+  "test_paras": {
+    "n_jobs": "Number of jobs, taking effect during predicting",
+    "n_stations": "Number of machines, taking effect during predicting",
+    "batch_size": "Number of parallel instances during predicting",
+    "no_action": "Whether is containing `NO_ACTION`",
+    "is_single_station": "Whether one operation can only allocate one station (machine)",
+    "exist_subline": "Whether is existing subline",
+    "file_path": "The path of experiment dataset",
+    "source": "The type of experimental comparison, simulation | public | private",
+    "exp_name": "The name of current experiment"
+  }
+}

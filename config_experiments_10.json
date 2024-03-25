@@ -1,0 +1,13 @@
+{
+  "test_paras": {
+    "n_jobs": 30,
+    "n_stations": 15,
+    "batch_size": 40,
+    "no_action": false,
+    "is_single_station": false,
+    "exist_subline": false,
+    "file_path": "/home/bml/storage/chenj1901/schedule_algorithm_demo/datasets/public/vdata",
+    "source": "simulation",
+    "exp_name": "public_vdata"
+  }
+}

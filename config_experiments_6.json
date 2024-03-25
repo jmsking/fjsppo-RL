@@ -1,0 +1,13 @@
+{
+  "test_paras": {
+    "n_jobs": 40,
+    "n_stations": 10,
+    "batch_size": 100,
+    "no_action": false,
+    "is_single_station": false,
+    "exist_subline": false,
+    "file_path": "/home/bml/storage/chenj1901/schedule_algorithm_demo/datasets/simulation/4010",
+    "source": "simulation",
+    "exp_name": "simulation_40j_10m"
+  }
+}

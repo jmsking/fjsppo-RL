@@ -1,0 +1,2011 @@
+{
+    "rows": {
+        "order": {
+            "makeOrderList": [
+                {
+                    "makeOrderNum": "880000195978",
+                    "materialCode": "BS2023063001"
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "materialCode": "BS2023063001"
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "materialCode": "BS2023063001"
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "materialCode": "BS2023063002"
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "materialCode": "BS2023063002"
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "materialCode": "BS2023063002"
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "materialCode": "BS2023063001"
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "materialCode": "BS2023063001"
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "materialCode": "BS2023063002"
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "materialCode": "BS2023063002"
+                }
+            ],
+            "makeOrderOpList": [
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195978",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195979",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195980",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195983",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195984",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195985",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195981",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 18
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195982",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 11
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 20
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195986",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0010",
+                    "workTime": 7
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0020",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0030",
+                    "workTime": 10
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0040",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0050",
+                    "workTime": 17
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0060",
+                    "workTime": 19
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0070",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0080",
+                    "workTime": 13
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "0901",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0090",
+                    "workTime": 5
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1001",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0100",
+                    "workTime": 15
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1101",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0110",
+                    "workTime": 9
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1201",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0120",
+                    "workTime": 14
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1301",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802ZP01A0130",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1401",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0040",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1450",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0050",
+                    "workTime": 16
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1501",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0060",
+                    "workTime": 8
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1601",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0070",
+                    "workTime": 6
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1701",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0080",
+                    "workTime": 12
+                },
+                {
+                    "makeOrderNum": "880000195987",
+                    "routingSeq": "000000",
+                    "operationNo": "1801",
+                    "refRoutingSeq": "",
+                    "refOperationStart": "",
+                    "refOperationEnd": "",
+                    "workStation": "5802TS01A0090",
+                    "workTime": 11
+                }
+            ]
+        },
+        "org": {
+            "workStationList": [
+                {
+                    "workStationCode": "5802ZP01A0010"
+                },
+                {
+                    "workStationCode": "5802ZP01A0030"
+                },
+                {
+                    "workStationCode": "5802ZP01A0040"
+                },
+                {
+                    "workStationCode": "5802ZP01A0050"
+                },
+                {
+                    "workStationCode": "5802ZP01A0020"
+                },
+                {
+                    "workStationCode": "5802ZP01A0060"
+                },
+                {
+                    "workStationCode": "5802ZP01A0080"
+                },
+                {
+                    "workStationCode": "5802ZP01A0090"
+                },
+                {
+                    "workStationCode": "5802ZP01A0070"
+                },
+                {
+                    "workStationCode": "5802ZP01A0100"
+                },
+                {
+                    "workStationCode": "5802ZP01A0110"
+                },
+                {
+                    "workStationCode": "5802ZP01A0120"
+                },
+                {
+                    "workStationCode": "5802ZP01A0130"
+                },
+                {
+                    "workStationCode": "5802TS01A0040"
+                },
+                {
+                    "workStationCode": "5802TS01A0090"
+                },
+                {
+                    "workStationCode": "5802TS01A0050"
+                },
+                {
+                    "workStationCode": "5802TS01A0060"
+                },
+                {
+                    "workStationCode": "5802TS01A0070"
+                },
+                {
+                    "workStationCode": "5802TS01A0080"
+                }
+            ]
+        }
+    }
+}

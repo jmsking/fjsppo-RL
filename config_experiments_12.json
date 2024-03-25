@@ -1,0 +1,15 @@
+{
+  "test_paras": {
+    "n_jobs": 10,
+    "n_stations": 19,
+    "batch_size": 1,
+    "no_action": true,
+    "is_single_station": true,
+    "exist_subline": false,
+    "exist_constraint": true,
+    "n_lines": 1,
+    "file_path": "/home/bml/storage/chenj1901/schedule_algorithm_demo/datasets/private/Y_10j_19m.json",
+    "source": "as",
+    "exp_name": "private_02"
+  }
+}
